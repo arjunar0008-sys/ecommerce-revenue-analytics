@@ -27,4 +27,4 @@ This Power BI dashboard analyzes e‑commerce revenue trends, product performanc
 - Clean layout for management reporting  
 
 ## 👤 Author
-Arjun — Business Analytics Intern
+Arjun — Data Analyst
